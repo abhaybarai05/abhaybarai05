@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhay Barai</h1>
-<h3 align="center">"Learning UI/UX & App and Web Development | Solving real life Problems with Tech and AI</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhaybarai05" alt="abhaybarai05" /></a> </p>
+<h3 align="center">"Learning UI/UX , App and Web Development" | Solving real life Problems with Tech and AI </h3>
 
 - 🔭 I’m currently working on [AI based mobile platform for democratizing sports talent Assesment](https://g.co/gemini/share/55aa7c16cf55)
 
@@ -26,3 +24,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhaybarai05&" alt="abhaybarai05" /></p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhaybarai05" alt="abhaybarai05" /></a> </p>
